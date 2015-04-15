@@ -1,0 +1,54 @@
+// for greatest compatibility, the wish list button should have it's own styling. Otherwise we might end up modifying a theme's purchase buttons
+.edd-wl-button {
+  display: inline-block;
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  outline: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }        
+    
+}
+
+// plain text link
+.plain {
+  display: inline-block;
+}
+
+// button sizes
+a.lg {
+  font-size: 18px;
+  line-height: 1.33;
+}
+
+a.sm {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+// buttons need padding
+a.edd-wl-button {
+  &.lg {
+    padding: 10px 16px;
+  }
+
+  &.sm {
+    padding: 5px 10px;
+  }
+}

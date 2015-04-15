@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Wish Lists\n"
+"POT-Creation-Date: 2014-03-12 16:10+1200\n"
+"PO-Revision-Date: 2014-03-12 16:10+1200\n"
+"Last-Translator: Andrew Munro, Sumobi <andrew@sumobi.com>\n"
+"Language-Team: Sumobi <andrew@sumobi.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../edd-wish-lists.php:267
+#, php-format
+msgid "You must install %sEasy Digital Downloads%s to use EDD Wish Lists."
+msgstr ""
+
+#: ../edd-wish-lists.php:271
+msgid ""
+"EDD Wish Lists requires Easy Digital Downloads Version 1.8.4 or greater. "
+"Please update Easy Digital Downloads."
+msgstr ""
+
+#: ../edd-wish-lists.php:282 ../templates/wish-list-edit.php:15
+msgid "Settings"
+msgstr ""
+
+#: ../edd-wish-lists.php:300
+msgid "Author's EDD plugins"
+msgstr ""
+
+#: ../includes/admin-settings.php:19
+msgid "No page selected"
+msgstr ""
+
+#: ../includes/admin-settings.php:107
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/admin-settings.php:112
+#, php-format
+msgid "%s Page"
+msgstr ""
+
+#: ../includes/admin-settings.php:113
+#, php-format
+msgid ""
+"Select the page where users will view their %s. This page should include the "
+"[edd_wish_lists] shortcode"
+msgstr ""
+
+#: ../includes/admin-settings.php:118
+#, php-format
+msgid "%s View Page"
+msgstr ""
+
+#: ../includes/admin-settings.php:119
+#, php-format
+msgid ""
+"Select the page where users will view each %s. This page should include the "
+"[edd_wish_lists_view] shortcode"
+msgstr ""
+
+#: ../includes/admin-settings.php:124
+#, php-format
+msgid "%s Edit Page"
+msgstr ""
+
+#: ../includes/admin-settings.php:125
+#, php-format
+msgid ""
+"Select the page where users will edit a %s. This page should include the "
+"[edd_wish_lists_edit] shortcode"
+msgstr ""
+
+#: ../includes/admin-settings.php:130
+#, php-format
+msgid "%s Create Page"
+msgstr ""
+
+#: ../includes/admin-settings.php:131
+#, php-format
+msgid ""
+"Select the page where users will create a %s. This page should include the "
+"[edd_wish_lists_create] shortcode"
+msgstr ""
+
+#: ../includes/admin-settings.php:136
+#, php-format
+msgid "Add To %s Text"
+msgstr ""
+
+#: ../includes/admin-settings.php:137
+#, php-format
+msgid "Enter the text you'd like to appear for adding a %s to a %s"
+msgstr ""
+
+#: ../includes/admin-settings.php:139 ../includes/modals.php:156
+#, php-format
+msgid "Add to %s"
+msgstr ""
+
+#: ../includes/admin-settings.php:143
+msgid "Add To Cart Text"
+msgstr ""
+
+#: ../includes/admin-settings.php:144
+#, php-format
+msgid "Enter the add to cart text you'd like to appear on the single %s page"
+msgstr ""
+
+#: ../includes/admin-settings.php:146 ../includes/template-functions.php:352
+msgid "Add to cart"
+msgstr ""
+
+#: ../includes/admin-settings.php:150
+#, php-format
+msgid "Allow Guests To Create %s"
+msgstr ""
+
+#: ../includes/admin-settings.php:154
+msgid "Yes"
+msgstr ""
+
+#: ../includes/admin-settings.php:155
+msgid "No"
+msgstr ""
+
+#: ../includes/admin-settings.php:161
+msgid "Icon"
+msgstr ""
+
+#: ../includes/admin-settings.php:162
+#, php-format
+msgid "The icon to show next to the add to %s links"
+msgstr ""
+
+#: ../includes/admin-settings.php:166
+msgid "Add"
+msgstr ""
+
+#: ../includes/admin-settings.php:167
+msgid "Bookmark"
+msgstr ""
+
+#: ../includes/admin-settings.php:168
+msgid "Gift"
+msgstr ""
+
+#: ../includes/admin-settings.php:169
+msgid "Heart"
+msgstr ""
+
+#: ../includes/admin-settings.php:170
+msgid "Star"
+msgstr ""
+
+#: ../includes/admin-settings.php:171
+msgid "No Icon"
+msgstr ""
+
+#: ../includes/admin-settings.php:178
+msgid "Button Style"
+msgstr ""
+
+#: ../includes/admin-settings.php:179
+msgid "Display a button or a plain text link"
+msgstr ""
+
+#: ../includes/admin-settings.php:182
+msgid "Plain Text"
+msgstr ""
+
+#: ../includes/admin-settings.php:183
+msgid "Button"
+msgstr ""
+
+#: ../includes/admin-settings.php:189
+msgid "Sharing"
+msgstr ""
+
+#: ../includes/admin-settings.php:190
+msgid "Select the services you'd like users to share to"
+msgstr ""
+
+#: ../includes/admin-settings.php:193
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/admin-settings.php:194
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/admin-settings.php:195
+msgid "Google+"
+msgstr ""
+
+#: ../includes/admin-settings.php:196
+msgid "LinkedIn"
+msgstr ""
+
+#: ../includes/admin-settings.php:197
+msgid "Email"
+msgstr ""
+
+#: ../includes/ajax-functions.php:140
+msgid "My list"
+msgstr ""
+
+#: ../includes/ajax-functions.php:180
+#, php-format
+msgid "Successfully added to <strong>%s</strong>"
+msgstr ""
+
+#: ../includes/dashboard-columns.php:19 ../includes/messages.php:31
+#: ../templates/wish-list-edit.php:20
+msgid "Title"
+msgstr ""
+
+#: ../includes/dashboard-columns.php:20
+msgid "Downloads"
+msgstr ""
+
+#: ../includes/dashboard-columns.php:21
+msgid "Author"
+msgstr ""
+
+#: ../includes/dashboard-columns.php:22
+msgid "Total"
+msgstr ""
+
+#: ../includes/dashboard-columns.php:23
+msgid "Date"
+msgstr ""
+
+#: ../includes/dashboard-columns.php:60
+msgid "Guest"
+msgstr ""
+
+#: ../includes/install.php:34 ../includes/post-type.php:73
+msgid "Wish Lists"
+msgstr ""
+
+#: ../includes/install.php:46
+msgid "View"
+msgstr ""
+
+#: ../includes/install.php:59
+msgid "Edit"
+msgstr ""
+
+#: ../includes/install.php:72 ../templates/wish-list-create.php:29
+msgid "Create"
+msgstr ""
+
+#: ../includes/messages.php:18
+#, php-format
+msgid "Sorry, you must login to create a %s"
+msgstr ""
+
+#: ../includes/messages.php:19
+#, php-format
+msgid "%s updated"
+msgstr ""
+
+#: ../includes/messages.php:20
+#, php-format
+msgid ""
+"%s created and saved for 30 days. If you wish to keep it longer, please "
+"create an account."
+msgstr ""
+
+#: ../includes/messages.php:21
+#, php-format
+msgid "%s created"
+msgstr ""
+
+#: ../includes/messages.php:22
+#, php-format
+msgid "%s deleted"
+msgstr ""
+
+#: ../includes/messages.php:23
+#, php-format
+msgid "You currently have no %s"
+msgstr ""
+
+#: ../includes/messages.php:24
+#, php-format
+msgid "You are about to delete this %s, are you sure?"
+msgstr ""
+
+#: ../includes/messages.php:25
+#, php-format
+msgid "Nothing here yet, how about adding some %s?"
+msgstr ""
+
+#: ../includes/messages.php:26
+msgid "This item has already been added to: "
+msgstr ""
+
+#: ../includes/messages.php:27
+msgid "Save"
+msgstr ""
+
+#: ../includes/messages.php:28
+msgid "Great, I'm done"
+msgstr ""
+
+#: ../includes/messages.php:29
+msgid "Add to new"
+msgstr ""
+
+#: ../includes/messages.php:30
+msgid "Add to existing"
+msgstr ""
+
+#: ../includes/messages.php:32 ../includes/template-functions.php:524
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: ../includes/messages.php:33
+#, php-format
+msgid "Yes, delete this %s"
+msgstr ""
+
+#: ../includes/messages.php:34
+#, php-format
+msgid "Share this %s"
+msgstr ""
+
+#: ../includes/messages.php:35
+msgid "Successfully shared"
+msgstr ""
+
+#: ../includes/messages.php:36 ../templates/wish-list-create.php:24
+#: ../templates/wish-list-edit.php:29
+msgid "Private - only viewable by you"
+msgstr ""
+
+#: ../includes/messages.php:37 ../templates/wish-list-create.php:25
+#: ../templates/wish-list-edit.php:30
+msgid "Public - viewable by anyone"
+msgstr ""
+
+#: ../includes/messages.php:38
+msgid "You need to enter a title"
+msgstr ""
+
+#: ../includes/messages.php:39
+msgid "Already purchased"
+msgstr ""
+
+#: ../includes/metabox.php:20
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../includes/metabox.php:52
+msgid "Total:"
+msgstr ""
+
+#: ../includes/metabox.php:54
+msgid "No items have been added yet"
+msgstr ""
+
+#: ../includes/modals.php:52 ../includes/modals.php:94
+#: ../includes/modals.php:129 ../includes/modals.php:186
+msgid "Close"
+msgstr ""
+
+#: ../includes/modals.php:70
+msgid "Send Now"
+msgstr ""
+
+#: ../includes/post-type.php:18
+msgid "Add New"
+msgstr ""
+
+#: ../includes/post-type.php:19
+#, php-format
+msgid "Add New %1$s"
+msgstr ""
+
+#: ../includes/post-type.php:20
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: ../includes/post-type.php:21
+#, php-format
+msgid "New %1$s"
+msgstr ""
+
+#: ../includes/post-type.php:22 ../includes/post-type.php:28
+#, php-format
+msgid "%2$s"
+msgstr ""
+
+#: ../includes/post-type.php:23
+#, php-format
+msgid "View %1$s"
+msgstr ""
+
+#: ../includes/post-type.php:24
+#, php-format
+msgid "Search %2$s"
+msgstr ""
+
+#: ../includes/post-type.php:25
+#, php-format
+msgid "No %2$s found"
+msgstr ""
+
+#: ../includes/post-type.php:26
+#, php-format
+msgid "No %2$s found in Trash"
+msgstr ""
+
+#: ../includes/post-type.php:72
+msgid "Wish List"
+msgstr ""
+
+#: ../includes/sharing.php:20
+msgid "Share via email"
+msgstr ""
+
+#: ../includes/sharing.php:36
+#, php-format
+msgid "%s has suggested you look at this %s from %s"
+msgstr ""
+
+#: ../includes/sharing.php:50
+msgid "Hi!"
+msgstr ""
+
+#: ../includes/sharing.php:51
+#, php-format
+msgid "%s has suggested you look at this %s from %s:"
+msgstr ""
+
+#: ../includes/sharing.php:57
+#, php-format
+msgid "Reply to %s by emailing %s"
+msgstr ""
+
+#: ../includes/sharing.php:169 ../templates/wish-list-view.php:58
+msgid "Share"
+msgstr ""
+
+#: ../includes/shortcodes.php:116
+msgid "Add to wish list"
+msgstr ""
+
+#: ../includes/template-functions.php:66
+msgid " Total: "
+msgstr ""
+
+#: ../includes/template-functions.php:353
+msgid "Checkout"
+msgstr ""
+
+#: ../includes/template-functions.php:463
+msgid "Add all to cart"
+msgstr ""
+
+#: ../includes/template-functions.php:605
+msgid "Remove"
+msgstr ""
+
+#: ../includes/template-functions.php:712
+msgid "Edit settings"
+msgstr ""
+
+#: ../includes/template-functions.php:757
+msgid "edit"
+msgstr ""
+
+#: ../includes/template-functions.php:805
+#, php-format
+msgid "Create new %s"
+msgstr ""
+
+#: ../templates/wish-list-create.php:15
+msgid "Title:"
+msgstr ""
+
+#: ../templates/wish-list-create.php:19
+msgid "Description:"
+msgstr ""
+
+#: ../templates/wish-list-edit.php:24
+msgid "Description"
+msgstr ""
+
+#: ../templates/wish-list-edit.php:34
+msgid "Update"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:8
+#: ../templates/wish-list-email-share.php:9
+msgid "Your Name"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:9
+msgid "Please enter your name"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:13
+msgid "Your Email Address"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:14
+msgid "Your Email address"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:14
+msgid "Please enter your email address"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:14
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:18
+msgid "Friend's Email Address"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:19
+msgid "To send to multiple email addresses, separate each email with a comma"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:20
+msgid "Friend's Email address"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:20
+msgid "Please enter one or more email addresses"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:20
+msgid "You must enter a valid email, or comma separate multiple emails"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:24
+msgid "Your Message"
+msgstr ""
+
+#: ../templates/wish-list-email-share.php:25
+msgid "Optional"
+msgstr ""
+
+#: ../templates/wish-lists.php:17
+#, php-format
+msgid "Private %s"
+msgstr ""
+
+#: ../templates/wish-lists.php:39
+#, php-format
+msgid "Public %s"
+msgstr ""

@@ -1,0 +1,694 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Türkçe(Turkish)\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ultimate-product-catalogue\n"
+"POT-Creation-Date: 2013-08-31 03:21:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-06-03 16:44-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: tr_TR\n"
+"X-Generator: Poedit 1.6.5\n"
+
+#: Functions/Initial_Data.php:13
+msgid "Sample Item"
+msgstr "Örnek Nesne"
+
+#: Functions/Initial_Data.php:14
+msgid "This is where your description of this product would go."
+msgstr "Ürün için tanımlamanızın yer alacağı alan"
+
+#: Functions/Initial_Data.php:17 Functions/Initial_Data.php:23
+msgid "Sample Category"
+msgstr "Örnek Kategori"
+
+#: Functions/Initial_Data.php:24
+msgid "This is where your description of this category would go."
+msgstr "Kategori için tanımlamanızın yer alacağı alan"
+
+#: Functions/Initial_Data.php:31
+msgid "Sample Catalogue"
+msgstr "Örnek Katalog"
+
+#: Functions/Initial_Data.php:32
+msgid "This is where your description of this catalogue would go."
+msgstr "Katalog için tanımlamanızın yer alacağı alan"
+
+#: Functions/Prepare_Data_For_Insertion.php:11
+#: Functions/Prepare_Data_For_Insertion.php:107
+#: Functions/Prepare_Data_For_Insertion.php:191
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+"Yüklenen dosya php.ini dosya içerisindeki upload_max_filesize yönergesini "
+"aşmakta."
+
+#: Functions/Prepare_Data_For_Insertion.php:14
+#: Functions/Prepare_Data_For_Insertion.php:110
+#: Functions/Prepare_Data_For_Insertion.php:194
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"HTLM formunda belirtilen Maksimum dosya boyutu yüklenen dosyada aşıldı."
+
+#: Functions/Prepare_Data_For_Insertion.php:17
+#: Functions/Prepare_Data_For_Insertion.php:113
+#: Functions/Prepare_Data_For_Insertion.php:197
+msgid "The uploaded file was only partially uploaded"
+msgstr "Yüklenen dosyanın bir kısmı yüklenebildi"
+
+#: Functions/Prepare_Data_For_Insertion.php:20
+#: Functions/Prepare_Data_For_Insertion.php:79
+#: Functions/Prepare_Data_For_Insertion.php:116
+#: Functions/Prepare_Data_For_Insertion.php:200
+msgid "No file was uploaded."
+msgstr "Dosya yüklenmedi"
+
+#: Functions/Prepare_Data_For_Insertion.php:24
+#: Functions/Prepare_Data_For_Insertion.php:120
+#: Functions/Prepare_Data_For_Insertion.php:204
+msgid "Missing a temporary folder"
+msgstr "Geçici dosya kayıp"
+
+#: Functions/Prepare_Data_For_Insertion.php:27
+#: Functions/Prepare_Data_For_Insertion.php:123
+#: Functions/Prepare_Data_For_Insertion.php:207
+msgid "Failed to write file to disk"
+msgstr "Diske yazma işlemi başarısız"
+
+#: Functions/Prepare_Data_For_Insertion.php:30
+#: Functions/Prepare_Data_For_Insertion.php:126
+#: Functions/Prepare_Data_For_Insertion.php:210
+msgid "File upload stopped by extension"
+msgstr "Dosya yükleme işlemi kesildi."
+
+#: Functions/Prepare_Data_For_Insertion.php:34
+#: Functions/Prepare_Data_For_Insertion.php:130
+#: Functions/Prepare_Data_For_Insertion.php:214
+msgid "No error code avaiable"
+msgstr "Hata kodu mevcut değil"
+
+#: Functions/Prepare_Data_For_Insertion.php:39
+#: Functions/Prepare_Data_For_Insertion.php:219
+msgid "no file was uploaded..."
+msgstr "Dosya yüklenmedi"
+
+#: Functions/Prepare_Data_For_Insertion.php:56
+msgid "There was an error uploading the file, please try again!"
+msgstr "Dosya yüklenirken bir hata oluştu,lütfen tekrar deneyiniz !"
+
+#: Functions/Prepare_Data_For_Insertion.php:135
+msgid "No file was uploaded here.."
+msgstr "Dosya buraya yüklenmedi."
+
+#: Functions/Prepare_Data_For_Insertion.php:176
+msgid "Products have been successfully deleted."
+msgstr "Ürünler başarı ile silindi."
+
+#: Functions/Prepare_Data_For_Insertion.php:302
+msgid "Categories have been successfully deleted."
+msgstr "kategoriler başarı ile silindi."
+
+#: Functions/Prepare_Data_For_Insertion.php:344
+msgid "Sub-Categories have been successfully deleted."
+msgstr "Alt kategoriler  başarı ile silindi."
+
+#: Functions/Prepare_Data_For_Insertion.php:385
+msgid "Tag(s) have been successfully deleted."
+msgstr "Etiketler başarı ile silindi."
+
+#: Functions/Prepare_Data_For_Insertion.php:428
+msgid "Catalogues have been successfully deleted."
+msgstr "Kataloglar başarı ile silindi."
+
+#: Functions/Shortcodes.php:161
+msgid "Product Name:"
+msgstr "Ürün Adı:"
+
+#: Functions/Shortcodes.php:167
+msgid "Categories:"
+msgstr "Kategoriler:"
+
+#: Functions/Shortcodes.php:179
+msgid "Sub-Categories:"
+msgstr "Alt-Kategoriler"
+
+#: Functions/Shortcodes.php:191 html/ItemDetails.php:65
+#: html/ProductsPage.php:251
+msgid "Tags:"
+msgstr "Etiketler:"
+
+#: Functions/Shortcodes.php:207
+msgid "Thumbnail"
+msgstr "Küçükresim"
+
+#: Functions/Shortcodes.php:210
+msgid "List"
+msgstr "Liste"
+
+#: Functions/Shortcodes.php:213
+msgid "Detail"
+msgstr "Detay"
+
+#: Functions/Shortcodes.php:276 Functions/Shortcodes.php:317
+msgid "Details"
+msgstr "Detaylar"
+
+#: Functions/Shortcodes.php:295
+msgid "Images"
+msgstr "Resimler"
+
+#: Functions/Update_Admin_Databases.php:14
+msgid "Category has been successfully created."
+msgstr "Kategori başarı ile oluşturuldu."
+
+#: Functions/Update_Admin_Databases.php:29
+msgid "Category has been successfully edited."
+msgstr "Kategori başarı ile düzenlendi."
+
+#: Functions/Update_Admin_Databases.php:55
+msgid "Category has been successfully deleted."
+msgstr "Kategori başarı ile silindi."
+
+#: Functions/Update_Admin_Databases.php:74
+msgid "Sub-Category has been successfully created."
+msgstr "Alt-kategori başarı ile oluşturuldu."
+
+#: Functions/Update_Admin_Databases.php:102
+msgid "Sub-Category has been successfully edited."
+msgstr "Alt-kategori başarı ile değiştirildi."
+
+#: Functions/Update_Admin_Databases.php:128
+msgid "Sub-Category has been successfully deleted."
+msgstr "Alt-kategori başarı ile silindi."
+
+#: Functions/Update_Admin_Databases.php:142
+msgid "Tag has been successfully created."
+msgstr "Etiket başarı ile oluşturuldu."
+
+#: Functions/Update_Admin_Databases.php:157
+msgid "Tag has been successfully edited."
+msgstr "Etiket başarı ile düzenlendi."
+
+#: Functions/Update_Admin_Databases.php:178
+msgid "Tag has been successfully deleted."
+msgstr "Etiket başarı ile silindi."
+
+#: Functions/Update_Admin_Databases.php:192
+msgid "Tag has been successfully deleted from product."
+msgstr "Etiket başarı ile üründen kaldırıldı."
+
+#: Functions/Update_Admin_Databases.php:206
+msgid "Catalogue has been successfully created."
+msgstr "Katalog başarı ile oluşturuldu."
+
+#: Functions/Update_Admin_Databases.php:223
+msgid "Catalogue has been successfully edited."
+msgstr "Katalog başarı ile düzenlendi."
+
+#: Functions/Update_Admin_Databases.php:245
+msgid "Products have been successfully added to the catalogue."
+msgstr "Ürünler başarı ile kataloğa eklendi."
+
+#: Functions/Update_Admin_Databases.php:266
+msgid "Categories have been successfully added to the catalogue."
+msgstr "Kategoriler başarı ile kataloğa eklendi."
+
+#: Functions/Update_Admin_Databases.php:285
+msgid "Catalogue has been successfully deleted."
+msgstr "Katalog başarı ile silindi."
+
+#: Functions/Update_Admin_Databases.php:300
+msgid "Product has been successfully deleted from catalogue."
+msgstr "Ürün katalogtan başarı ile silindi."
+
+#: Functions/Update_Admin_Databases.php:348
+msgid "Menu item has been successfully created."
+msgstr "Menu nesnesi başarı ile oluşturuldu."
+
+#: Functions/Update_Admin_Databases.php:411
+msgid "Menu item has been successfully edited."
+msgstr "Menu nesnesi başarı ile düzenlendi."
+
+#: Functions/Update_Admin_Databases.php:448
+msgid "You have a column which is not recognized: "
+msgstr "Tanınmayan bir kolon var. "
+
+#: Functions/Update_Admin_Databases.php:448
+msgid ""
+". <br>Please make sure that the column names match the product field labels "
+"exactly."
+msgstr ""
+". <br>Kolon adlarının ürün alan etiketleri ile uyumlu olduğunu kontrol "
+"ediniz."
+
+#: Functions/Update_Admin_Databases.php:509
+msgid "Products added successfully."
+msgstr "Ürün başarı ile eklendi."
+
+#: Functions/Update_Admin_Databases.php:547
+msgid "Product has been successfully deleted."
+msgstr "Ürün başarı ile silindi."
+
+#: Functions/Update_Admin_Databases.php:560
+msgid "Image has been successfully added to the product."
+msgstr "Resim başarı ile ürüne eklendi."
+
+#: Functions/Update_Admin_Databases.php:574
+msgid "Image has been successfully removed."
+msgstr "Resim başarı ile kaldırıldı."
+
+#: Functions/Update_UPCP_Content.php:76
+msgid "The form has not worked correctly. Please contact the plugin developer."
+msgstr "Form başarı ile çalışmadı.Plugin yaratıcısı ile temasa geçiniz."
+
+#: html/AdminHeader.php:2
+msgid "Ultimate Product Catalogue Settings"
+msgstr "Ultimate Product Catalogue Ayarlar"
+
+#: html/CatalogueDetails.php:9 html/ItemDetails.php:9 html/ItemDetails.php:154
+#: html/ItemDetails.php:217 html/ItemDetails.php:288
+msgid "Back"
+msgstr "Geri"
+
+#: html/CatalogueDetails.php:18 html/CataloguesPage.php:50
+#: html/CataloguesPage.php:77 html/CataloguesPage.php:170
+#: html/CategoriesPage.php:51 html/CategoriesPage.php:78
+#: html/CategoriesPage.php:171 html/DashboardPage.php:72
+#: html/DashboardPage.php:99 html/ItemDetails.php:18 html/ItemDetails.php:162
+#: html/ItemDetails.php:225 html/ItemDetails.php:296 html/ProductsPage.php:50
+#: html/ProductsPage.php:91 html/ProductsPage.php:205
+#: html/SubCategoriesPage.php:50 html/SubCategoriesPage.php:84
+#: html/SubCategoriesPage.php:185 html/TagsPage.php:51 html/TagsPage.php:78
+#: html/TagsPage.php:171
+msgid "Name"
+msgstr "Ad"
+
+#: html/CatalogueDetails.php:20 html/CataloguesPage.php:172
+msgid ""
+"The name of the catalogue. This is for your own internal use, and to insert "
+"the catalogue into a page or post."
+msgstr ""
+"Katalog adı.Sizin iç kullanımız için gereklidir,Kataloğu sayfa ya da yazı "
+"içerisine ekleyin."
+
+#: html/CatalogueDetails.php:23 html/CataloguesPage.php:57
+#: html/CataloguesPage.php:84 html/CataloguesPage.php:175
+#: html/CategoriesPage.php:58 html/CategoriesPage.php:85
+#: html/CategoriesPage.php:176 html/DashboardPage.php:79
+#: html/DashboardPage.php:106 html/ItemDetails.php:34 html/ItemDetails.php:167
+#: html/ItemDetails.php:243 html/ItemDetails.php:301 html/ProductsPage.php:57
+#: html/ProductsPage.php:98 html/ProductsPage.php:220
+#: html/SubCategoriesPage.php:64 html/SubCategoriesPage.php:98
+#: html/SubCategoriesPage.php:201 html/TagsPage.php:58 html/TagsPage.php:85
+#: html/TagsPage.php:176
+msgid "Description"
+msgstr "Tanım"
+
+#: html/CatalogueDetails.php:25
+msgid "The description of the catalogue. What products are included in this?"
+msgstr "Katalog tanımı.Hangi ürünler Eklendi?"
+
+#: html/CatalogueDetails.php:28
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: html/CatalogueDetails.php:30
+msgid "Custom CSS styles that should be applied to this catalogue."
+msgstr "Özel CSS şekli bu katalog için uygulanabilir."
+
+#: html/CatalogueDetails.php:34
+msgid "Edit Catalogue"
+msgstr "Kataloğu düzenle"
+
+#: html/CatalogueDetails.php:48
+msgid "Products"
+msgstr "Ürünler"
+
+#: html/CatalogueDetails.php:53 html/CatalogueDetails.php:103
+#: html/DashboardPage.php:193
+msgid "View All"
+msgstr "Tümünü Göster"
+
+#: html/CatalogueDetails.php:88 html/CatalogueDetails.php:138
+msgid "Add to Catalogue"
+msgstr "Kataloğa Ekle"
+
+#: html/CatalogueDetails.php:98
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: html/CatalogueDetails.php:161 html/CatalogueDetails.php:168
+msgid "Delete?"
+msgstr "Sil?"
+
+#: html/CatalogueDetails.php:162 html/CatalogueDetails.php:169
+msgid "Catalogue Item Name"
+msgstr "Katalog Nesne Adı"
+
+#: html/CatalogueDetails.php:163 html/CatalogueDetails.php:170
+msgid "Type of Catalogue Item"
+msgstr "Katalog Nesne Tipi"
+
+#: html/CatalogueDetails.php:179 html/CataloguesPage.php:27
+#: html/CataloguesPage.php:116 html/CataloguesPage.php:137
+#: html/CategoriesPage.php:117 html/CategoriesPage.php:138
+#: html/DashboardPage.php:49 html/DashboardPage.php:138
+#: html/DashboardPage.php:159 html/ItemDetails.php:107
+#: html/ProductsPage.php:27 html/ProductsPage.php:144
+#: html/ProductsPage.php:169 html/SubCategoriesPage.php:27
+#: html/SubCategoriesPage.php:152 html/TagsPage.php:28 html/TagsPage.php:117
+#: html/TagsPage.php:138
+msgid "Delete"
+msgstr "Sil"
+
+#: html/CataloguesPage.php:26 html/CataloguesPage.php:136
+#: html/CategoriesPage.php:27 html/CategoriesPage.php:137
+#: html/DashboardPage.php:48 html/DashboardPage.php:158
+#: html/ProductsPage.php:26 html/ProductsPage.php:168
+#: html/SubCategoriesPage.php:26 html/SubCategoriesPage.php:151
+#: html/TagsPage.php:27 html/TagsPage.php:137
+msgid "Bulk Actions"
+msgstr "Toplu Eylemler"
+
+#: html/CataloguesPage.php:29 html/CataloguesPage.php:139
+#: html/CategoriesPage.php:30 html/DashboardPage.php:51
+#: html/DashboardPage.php:161 html/ProductsPage.php:29
+#: html/ProductsPage.php:171 html/SubCategoriesPage.php:29
+#: html/TagsPage.php:140
+msgid "Apply"
+msgstr "Uygula"
+
+#: html/CataloguesPage.php:32 html/CataloguesPage.php:142
+#: html/CategoriesPage.php:33 html/CategoriesPage.php:143
+#: html/DashboardPage.php:54 html/DashboardPage.php:164
+#: html/ProductsPage.php:32 html/ProductsPage.php:174
+#: html/SubCategoriesPage.php:32 html/SubCategoriesPage.php:157
+#: html/TagsPage.php:33 html/TagsPage.php:143
+msgid "items"
+msgstr "Nesneler"
+
+#: html/CataloguesPage.php:36 html/CataloguesPage.php:146
+#: html/CategoriesPage.php:37 html/CategoriesPage.php:147
+#: html/DashboardPage.php:58 html/DashboardPage.php:168
+#: html/ProductsPage.php:36 html/ProductsPage.php:178
+#: html/SubCategoriesPage.php:36 html/SubCategoriesPage.php:161
+#: html/TagsPage.php:37 html/TagsPage.php:147
+msgid "of"
+msgstr "ın"
+
+#: html/CataloguesPage.php:64 html/CataloguesPage.php:91
+#: html/DashboardPage.php:86 html/DashboardPage.php:113
+msgid "Products in Catalogue"
+msgstr "Katalogtaki ürünler"
+
+#: html/CataloguesPage.php:164
+msgid "Add a New Catalogue"
+msgstr "Yeni Katalog Ekle"
+
+#: html/CataloguesPage.php:177
+msgid "The description of the catalogue. What will it be used to display?"
+msgstr "Katalog Tanımı.Göstermek için ne kullanılacak?"
+
+#: html/CataloguesPage.php:180
+msgid "Add New Catalogue"
+msgstr "Yeni Katalog Ekle"
+
+#: html/CategoriesPage.php:65 html/CategoriesPage.php:92
+#: html/ItemDetails.php:132
+msgid "Products in Category"
+msgstr "Katagorideki Ürünler"
+
+#: html/CategoriesPage.php:165
+msgid "Add a New Category"
+msgstr "Yeni Kategori Ekle"
+
+#: html/CategoriesPage.php:173
+msgid "The name of the category for your own purposes."
+msgstr "Sizin kullanımınız için kategori adı"
+
+#: html/CategoriesPage.php:178
+msgid "The description of the category. What will it be used to display?"
+msgstr "Kategori tanımı.Göstermek için ne kullanılacak ? "
+
+#: html/CategoriesPage.php:181
+msgid "Add New Category"
+msgstr "Yeni Kategori Ekle"
+
+#: html/DashboardPage.php:4
+msgid "Pro Version"
+msgstr "Pro Versiyon"
+
+#: html/DashboardPage.php:7
+msgid ""
+"Thanks for being an early adopter! Anyone who installs our plugin before "
+"September 30th receives the pro version free of charge!"
+msgstr ""
+"Erken kullanım için size teşekkür ederiz!30 Eylül öncesi Plugin kurup "
+"kullananlar bizden pro versiyonunu ücretsiz olarak alacaklardır!"
+
+#: html/DashboardPage.php:12
+msgid "Product Key"
+msgstr "Ürün Anahtarı"
+
+#: html/DashboardPage.php:15
+msgid "Upgrade"
+msgstr "Yükselt"
+
+#: html/DashboardPage.php:188
+msgid "Popular Products"
+msgstr "Popüler Ürünler"
+
+#: html/ItemDetails.php:20 html/ProductsPage.php:207
+msgid "The name of the product your users will see."
+msgstr "Kullanıcılarınızın göreceği ürünler"
+
+#: html/ItemDetails.php:23 html/ItemDetails.php:94 html/ProductsPage.php:210
+msgid "Image"
+msgstr "Resim"
+
+#: html/ItemDetails.php:26
+msgid ""
+"The main image that will be displayed in association with this product. "
+"Current Image:"
+msgstr "Bu ürünü tanımlayacak ana resim.Güncel Resim : "
+
+#: html/ItemDetails.php:29 html/ProductsPage.php:64 html/ProductsPage.php:105
+#: html/ProductsPage.php:215
+msgid "Price"
+msgstr "Fiyat"
+
+#: html/ItemDetails.php:31
+msgid "The price of the product."
+msgstr "Ürün Fiyatı"
+
+#: html/ItemDetails.php:36 html/ProductsPage.php:222
+msgid ""
+"The description of the product. What is it and what makes it worth getting?"
+msgstr "Ürün Tanımı.Nedir ve onu değerli kılan nedir?"
+
+#: html/ItemDetails.php:39 html/ItemDetails.php:230 html/ProductsPage.php:225
+msgid "Category:"
+msgstr "Kategori:"
+
+#: html/ItemDetails.php:49 html/ItemDetails.php:240 html/ProductsPage.php:235
+#: html/SubCategoriesPage.php:198
+msgid ""
+"What category is this product in? Categories help to organize your product "
+"catalogues and help your customers to find what they're looking for."
+msgstr ""
+"Bu ürün hangi kategoride?Kategoriler ürünlerinize ait katalogları organize "
+"etmenizde size yardım eder ve müşterilerinizin aradıklarını bulmadılarında "
+"yardımcı olur."
+
+#: html/ItemDetails.php:52 html/ProductsPage.php:238
+msgid "Sub-Category:"
+msgstr "Alt kategori:"
+
+#: html/ItemDetails.php:62 html/ProductsPage.php:248
+msgid ""
+"What sub-category is this product in? Sub-categories help to organize your "
+"product catalogues and help your customers to find what they're looking for."
+msgstr ""
+"Bu ürün hangi alt-kategoride?Alt-Kategoriler ürünlerinize ait katalogları "
+"organize etmenizde size yardım eder ve müşterilerinizin aradıklarını "
+"bulmadılarında yardımcı olur."
+
+#: html/ItemDetails.php:75 html/ProductsPage.php:258
+msgid ""
+"What tags should this product have? Tags help to describe the attributes of "
+"a product."
+msgstr ""
+"Bu ürün hangi etiketlere sahip olmalı ?Etiketler bir ürünün özelliklerini "
+"tanımlamak için yardımcı olur."
+
+#: html/ItemDetails.php:86
+msgid "Add Product Images"
+msgstr "Ürün Resmi Ekle"
+
+#: html/ItemDetails.php:96
+msgid "The secondaries images that will be displayed if Fancybox is enabled."
+msgstr "Fancybox etkin ise ikincil resim gösterilecek."
+
+#: html/ItemDetails.php:102
+msgid "Current Images:"
+msgstr "Güncel Resimler"
+
+#: html/ItemDetails.php:114 html/TagsPage.php:218
+msgid "Full Version Required!"
+msgstr "Tam ürün Gerekli !"
+
+#: html/ItemDetails.php:116
+msgid ""
+"The full version of the Ultimate Product Catalogue Plugin is required to "
+"additional product images. Please upgrade to unlock this page!"
+msgstr ""
+"Ultimate Ürün Kataloğu Plugin tam sürümü ek ürün görüntüleri için "
+"gereklidir. Bu sayfayı açmak için yükseltme yapınız lütfen!"
+
+#: html/ItemDetails.php:164
+msgid "The name of the category your users will see and search for."
+msgstr "Kullanıcılarınız kategori adını görecek ve araştırma yapacaktır."
+
+#: html/ItemDetails.php:169
+msgid "The description of the category. What products are included in this?"
+msgstr "Kategori tanımı.Hangi ürünler içerisinde ? "
+
+#: html/ItemDetails.php:172 html/ItemDetails.php:306
+msgid "Save Changes"
+msgstr "Değişiklikleri kaydet"
+
+#: html/ItemDetails.php:195 html/SubCategoriesPage.php:71
+#: html/SubCategoriesPage.php:105
+msgid "Products in Sub-Category"
+msgstr "Alt-kategorideki ürünler"
+
+#: html/ItemDetails.php:227
+msgid "The name of the sub-category your users will see and search for."
+msgstr "Kullanıcılarınız alt-kategori adını görecek ve araştırma yapacaktır."
+
+#: html/ItemDetails.php:245
+msgid ""
+"The description of the sub-category. What products are included in this?"
+msgstr "Alt-Kategori tanımı.Hangi ürünler içerisinde ? "
+
+#: html/ItemDetails.php:265
+msgid "Products in Tag"
+msgstr "Etiketli ürünler"
+
+#: html/ItemDetails.php:298
+msgid "The name of the tag your users will see and search for."
+msgstr "Kullanıcılarınızın araştıracağı etiket adı."
+
+#: html/ItemDetails.php:303
+msgid "The description of the tag. What products are included in this?"
+msgstr "Etiket tanımı.Hangi ürünler içerisinde?"
+
+#: html/ProductsPage.php:71 html/ProductsPage.php:112
+msgid "Category"
+msgstr "Kategori"
+
+#: html/ProductsPage.php:78 html/ProductsPage.php:119
+msgid "Sub-Category"
+msgstr "Alt-Kategori"
+
+#: html/ProductsPage.php:197 html/ProductsPage.php:270
+msgid "Add New Products"
+msgstr "Yeni ürün ekle"
+
+#: html/ProductsPage.php:199
+msgid "Add Product Manually"
+msgstr "Manual olarak ürün ekle"
+
+#: html/ProductsPage.php:212
+msgid "The image that will be displayed in association with this product."
+msgstr "Bu ürünü tarif edecek resim"
+
+#: html/ProductsPage.php:217
+msgid "What does this product cost?"
+msgstr "Bu ürünün fiyatı nedir?"
+
+#: html/ProductsPage.php:261
+msgid "Add New Product"
+msgstr "Yeni ürün ekle"
+
+#: html/ProductsPage.php:263
+msgid "Add Products from Spreadsheet"
+msgstr "Tablodan ürün ekle"
+
+#: html/ProductsPage.php:266
+msgid "Spreadhseet Containing Products"
+msgstr "Tablo ürün içeriyor"
+
+#: html/ProductsPage.php:268
+msgid ""
+"The spreadsheet containing all of the products you wish to add. Make sure "
+"that the column title names are the same as the field names for products "
+"(ex: Name, Price, etc.), and that any categories and sub-categories are "
+"written exactly the same as they are online."
+msgstr ""
+"Eklemek istediğiniz tüm ürünleri içeren elektronik tablo.Sütun başlığı "
+"isimleri ürünlerin (ex: Adı, Fiyat, vb) için alan adları olarak aynı "
+"olduğundan emin olun ve herhangi bir kategori ve alt kategoriler çevrimiçi "
+"olduklarında tam olarak aynı yazılır."
+
+#: html/SubCategoriesPage.php:57 html/SubCategoriesPage.php:91
+msgid "Parent Category"
+msgstr "Ana kategori"
+
+#: html/SubCategoriesPage.php:179
+msgid "Add a New Sub-Category"
+msgstr "Yeni alt-kategori ekle"
+
+#: html/SubCategoriesPage.php:187
+msgid "The name of the sub-category for your own purposes."
+msgstr "Kendi amaçlarınız için alt-kategori ismi."
+
+#: html/SubCategoriesPage.php:190
+msgid "Parent Category:"
+msgstr "Ana kategori:"
+
+#: html/SubCategoriesPage.php:203
+msgid "The description of the sub-category. What will it be used to display?"
+msgstr "Alt kategori tanımı.Hangi amaç için kullanılacak?"
+
+#: html/SubCategoriesPage.php:206
+msgid "Add New Sub-Category"
+msgstr "Yeni Alt kategori ekle"
+
+#: html/TagsPage.php:65 html/TagsPage.php:92
+msgid "Products Tagged"
+msgstr "Ürün etiketlendi"
+
+#: html/TagsPage.php:148 html/TagsPage.php:149
+msgid "disabled"
+msgstr "Etkisiz"
+
+#: html/TagsPage.php:165
+msgid "Add a New Tag"
+msgstr "Yeni Etiket ekle"
+
+#: html/TagsPage.php:173
+msgid "The name of the tag for your own purposes."
+msgstr "Sizin kendi kullanımınız için etiket"
+
+#: html/TagsPage.php:178
+msgid "The description of the tag. What will it be used to display?"
+msgstr "Etiket tanımı.Hangi amaç için kullanılacak?"
+
+#: html/TagsPage.php:181
+msgid "Add New Tag"
+msgstr "Yeni etiket ekle"
+
+#: html/TagsPage.php:220
+msgid ""
+"The full version of the Ultimate Product Catalogue Plugin is required to use "
+"tags. Please upgrade to unlock this page!"
+msgstr ""
+"Ultimate Ürün Kataloğu Plugin tam sürüm etiketleri kullanmak için "
+"gereklidir. Bu sayfayı açmak için yükseltme yapınız lütfen!"

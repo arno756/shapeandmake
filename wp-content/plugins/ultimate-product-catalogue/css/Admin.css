@@ -1,0 +1,274 @@
+/* Admin page CSS styles for the Ultimate Product Catalogue Plugin */
+
+div {
+		margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/***************************************************
+*Main Admin Area
+***************************************************/
+
+.clear {
+  clear:both;
+}
+.OptionTab {
+	padding:15px;
+}
+.HiddenTab {
+  display:none;
+}
+.Row {
+  margin-bottom:25px;
+	min-height:100px;
+}
+a {
+  cursor:pointer;
+}
+.PreviewImage {
+	width:100px;
+	height:100px;
+	float:left;
+	margin:5px;
+}
+.item-image {
+  width:105px;
+	float:left;
+	padding-right:20px;
+}
+.ItemDetail {
+  max-width:750px;
+}
+.NoUnderline {
+  text-decoration: none;
+}
+.NoUnderline:hover {
+  text-decoration: none;
+}
+.catalogue-list {clear:none;}
+.catalogue-list tr {cursor:move;}
+
+#dashboard-products-column {
+  display: inline;
+  width: 281px;
+  clear: both;
+	float: left;
+}
+
+.upcp-tag-input {
+  width:7% !important;
+	margin-left:-4px !important;
+}
+
+.upcp-radio-input {
+  width:4% !important;
+	margin-left:-4px !important;
+}
+
+.upcp-pb-textarea {
+  height:75%;
+	width:95%;
+}
+
+/***********************************************************
+* GRIDSTER
+***********************************************************/
+
+#gridster-button {
+  min-height:30px;
+	min-width:90px;
+}
+
+#gridster-button-mobile {
+  min-height:30px;
+	min-width:90px;
+}
+
+#gridster-reset {
+  min-height:30px;
+	min-width:115px;
+}
+
+#gridster-reset-mobile {
+  min-height:30px;
+	min-width:115px;
+}
+
+#pp-select {
+  margin-bottom: 10px;
+}
+
+#PP-type-select {
+  width:180px;
+}
+
+/***********************************************************
+* CONFIRMATION DIALOG
+***********************************************************/
+
+.modal.fade .modal-dialog {
+  -webkit-transition: -webkit-transform .3s ease-out;
+     -moz-transition:    -moz-transform .3s ease-out;
+       -o-transition:      -o-transform .3s ease-out;
+          transition:         transform .3s ease-out;
+  -webkit-transform: translate(0, -25%);
+      -ms-transform: translate(0, -25%);
+          transform: translate(0, -25%);
+}
+.modal.in .modal-dialog {
+  -webkit-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+          transform: translate(0, 0);
+}
+.modal-dialog {
+  position: relative;
+  width: auto;
+  margin: 10px;
+}
+
+.modal-content {
+  position: relative;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #999;
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: 6px;
+  outline: none;
+  -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+          box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+}
+
+.modal-header {
+  min-height: 16.42857143px;
+  padding: 15px;
+  border-bottom: 1px solid #e5e5e5;
+}
+.modal-header .close {
+  margin-top: -2px;
+}
+
+.close {
+  float: right;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  filter: alpha(opacity=20);
+  opacity: .2;
+}
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+  filter: alpha(opacity=50);
+  opacity: .5;
+}
+button.close {
+  -webkit-appearance: none;
+  padding: 0;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+}
+
+.modal-title {
+  margin: 0;
+  line-height: 1.42857143;
+}
+.modal-body {
+  position: relative;
+  padding: 20px;
+}
+.modal-footer {
+  padding: 19px 20px 20px;
+  margin-top: 15px;
+  text-align: right;
+  border-top: 1px solid #e5e5e5;
+}
+.modal-footer .btn + .btn {
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+.modal-footer .btn-group .btn + .btn {
+  margin-left: -1px;
+}
+.modal-footer .btn-block + .btn-block {
+  margin-left: 0;
+}
+
+.modal-open {
+  overflow: hidden;
+}
+.upcp-modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1050;
+  display: none;
+  overflow: auto;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  outline: 0;
+}
+
+.fade {
+  opacity: 0;
+  -webkit-transition: opacity .15s linear;
+          transition: opacity .15s linear;
+}
+.fade.in {
+  opacity: 1;
+}
+
+@media (min-width: 768px) {
+  .modal-dialog {
+    width: 600px;
+    margin: 30px auto;
+  }
+	.modal-content {
+    -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+  }
+	.modal-sm {
+    width: 300px;
+  }
+}
+
+@media (min-width: 992px) {
+  .modal-lg {
+    width: 900px;
+  }
+}
+
+/* question Mark tooltip */
+.questionMark {
+    position:relative;
+		top:-25px;
+		left:-35px;
+    height:30px; /*dimensions of our image*/
+    width:30px;
+    background:url("../images/question_mark.png") top left no-repeat;
+}
+.toolTip {
+    position:absolute;
+    left:16px; /*Moves it to the right beside the question mark*/
+    top:30px;
+    display:none;
+    /*Making it look pretty*/
+    color:#333333;
+		width:210px;
+    padding:5px;
+		border-radius:5px;
+    border:1px solid #BBBBBB;
+    background-color:#FFFFFF;
+    font:1em Arial, Helvetica, sans-serif;
+}

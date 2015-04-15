@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Reviews\n"
+"POT-Creation-Date: 2013-08-26 13:23-0000\n"
+"PO-Revision-Date: 2013-08-26 13:24-0000\n"
+"Last-Translator: Sunny Ratilal\n"
+"Language-Team: Sunny Ratilal\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e;_nx_noop\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: edd-reviews.php:160 edd-reviews.php:172
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: edd-reviews.php:461
+msgid "Leave a Review"
+msgstr ""
+
+#: edd-reviews.php:465
+msgid "Name"
+msgstr ""
+
+#: edd-reviews.php:467
+msgid "Email"
+msgstr ""
+
+#: edd-reviews.php:470
+msgid "Submit Review"
+msgstr ""
+
+#: edd-reviews.php:477 edd-reviews.php:888
+msgid "Review Title"
+msgstr ""
+
+#: edd-reviews.php:482 edd-reviews.php:889
+msgid "Rating"
+msgstr ""
+
+#: edd-reviews.php:505
+msgid "Review"
+msgstr ""
+
+#: edd-reviews.php:548
+msgid ""
+"You are only allowed to post one review for this product. Multiple reviews "
+"have been disabled."
+msgstr ""
+
+#: edd-reviews.php:549
+msgid "Multiple Reviews Not Allowed"
+msgstr ""
+
+#: edd-reviews.php:570
+#, php-format
+msgid "%sERROR:%s You did not add a review title."
+msgstr ""
+
+#: edd-reviews.php:570 edd-reviews.php:586 edd-reviews.php:1679
+#: edd-reviews.php:1683
+msgid "Error"
+msgstr ""
+
+#: edd-reviews.php:586
+#, php-format
+msgid ""
+"%sERROR:%s You did not add a rating or the rating you supplied was not "
+"validated."
+msgstr ""
+
+#: edd-reviews.php:752 edd-reviews.php:953 edd-reviews.php:990
+#: edd-reviews.php:1176
+msgid "Reviews"
+msgstr ""
+
+#: edd-reviews.php:772
+msgid "Allow reviews."
+msgstr ""
+
+#: edd-reviews.php:798
+msgid "No reviews yet."
+msgstr ""
+
+#: edd-reviews.php:808
+msgid "Show comments"
+msgstr ""
+
+#: edd-reviews.php:853 edd-reviews.php:1295
+msgid "Thank you for your feedback."
+msgstr ""
+
+#: edd-reviews.php:959
+msgid "Enable review breakdown"
+msgstr ""
+
+#: edd-reviews.php:960
+msgid ""
+"This will show how many people have rated the download for each star rating."
+msgstr ""
+
+#: edd-reviews.php:966
+msgid "Disable multiple reviews by same author"
+msgstr ""
+
+#: edd-reviews.php:967
+msgid ""
+"This will disallow authors to post multiple reviews on the same download"
+msgstr ""
+
+#: edd-reviews.php:996
+msgid "Disable EDD Reviews CSS"
+msgstr ""
+
+#: edd-reviews.php:997
+msgid ""
+"Check this to disable styling for the reviews provided by the EDD Reviews "
+"plugin"
+msgstr ""
+
+#: edd-reviews.php:1025 edd-reviews.php:1034
+msgid "View Reviews"
+msgstr ""
+
+#: edd-reviews.php:1049
+#, php-format
+msgid ""
+"You must install %sEasy Digital Downloads%s for the Reviews Add-On to work."
+msgstr ""
+
+#: edd-reviews.php:1171
+#, php-format
+msgid "%s Reviews for %s"
+msgstr ""
+
+#: edd-reviews.php:1266
+msgid "Edit Review"
+msgstr ""
+
+#: edd-reviews.php:1269
+#: classes/shortcodes/class-edd-reviews-shortcode-review.php:60
+#: classes/shortcodes/class-edd-reviews-shortcode-review.php:111
+#: classes/widgets/class-featured-review-widget.php:85
+msgid "stars"
+msgstr ""
+
+#: edd-reviews.php:1280 edd-reviews.php:1321
+msgid "Your review is awaiting moderation."
+msgstr ""
+
+#: edd-reviews.php:1282
+#: classes/shortcodes/class-edd-reviews-shortcode-review.php:56
+#: classes/shortcodes/class-edd-reviews-shortcode-review.php:107
+#: classes/widgets/class-featured-review-widget.php:80
+msgid "by"
+msgstr ""
+
+#: edd-reviews.php:1302
+msgid "Help other customers find the most helpful reviews"
+msgstr ""
+
+#: edd-reviews.php:1304
+msgid "Did you find this review helpful?"
+msgstr ""
+
+#: edd-reviews.php:1306
+msgid "Yes"
+msgstr ""
+
+#: edd-reviews.php:1307
+msgid "No"
+msgstr ""
+
+#: edd-reviews.php:1361
+#, php-format
+msgid "%s of %s people found this review helpful."
+msgstr ""
+
+#: edd-reviews.php:1418
+msgid "review"
+msgstr ""
+
+#: edd-reviews.php:1443
+msgid "star"
+msgstr ""
+
+#: edd-reviews.php:1565
+msgid "Easy Digital Downloads Recent Reviews"
+msgstr ""
+
+#: edd-reviews.php:1613
+msgid "By"
+msgstr ""
+
+#: edd-reviews.php:1622
+msgid "There are no reviews yet."
+msgstr ""
+
+#: edd-reviews.php:1634
+msgid "Review Information"
+msgstr ""
+
+#: edd-reviews.php:1654
+msgid "Review Title:"
+msgstr ""
+
+#: edd-reviews.php:1658
+msgid "Rating:"
+msgstr ""
+
+#: edd-reviews.php:1679
+#, php-format
+msgid "%sError%s: Please add a review title."
+msgstr ""
+
+#: edd-reviews.php:1683
+#, php-format
+msgid "%sError%s: Please add a valid rating between 1 and 5."
+msgstr ""
+
+#: edd-reviews.php:1772
+#, php-format
+msgid "Review %s not found!"
+msgstr ""
+
+#: edd-reviews.php:1893 edd-reviews.php:1932
+msgid "Embed Review"
+msgstr ""
+
+#: edd-reviews.php:1923
+msgid "Select a Review to Embed"
+msgstr ""
+
+#: edd-reviews.php:1934
+msgid "No Reviews Have Been Created Yet"
+msgstr ""
+
+#: edd-reviews.php:1964
+msgid "API Documentation"
+msgstr ""
+
+#: classes/class-edd-license-handler.php:122
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: classes/class-edd-license-handler.php:252
+msgid "Deactivate License"
+msgstr ""
+
+#: classes/shortcodes/class-edd-reviews-shortcode-review.php:76
+msgid "Review was not found."
+msgstr ""
+
+#: classes/widgets/class-featured-review-widget.php:36
+msgid "EDD Featured Review"
+msgstr ""
+
+#: classes/widgets/class-featured-review-widget.php:39
+msgid "Display a featured review."
+msgstr ""
+
+#: classes/widgets/class-featured-review-widget.php:59
+msgid "Featured Review "
+msgstr ""
+
+#: classes/widgets/class-featured-review-widget.php:65
+msgid ""
+"No review was selected. Please configure it from within the widget settings."
+msgstr ""
+
+#: classes/widgets/class-featured-review-widget.php:139
+#: classes/widgets/class-reviews-widget.php:159
+msgid "Title:"
+msgstr ""
+
+#: classes/widgets/class-featured-review-widget.php:144
+msgid "Review to display:"
+msgstr ""
+
+#: classes/widgets/class-reviews-widget.php:36
+msgid "EDD Reviews"
+msgstr ""
+
+#: classes/widgets/class-reviews-widget.php:39
+msgid "Display the latest reviews posted on your store."
+msgstr ""
+
+#: classes/widgets/class-reviews-widget.php:81
+msgid "Recent Reviews"
+msgstr ""
+
+#: classes/widgets/class-reviews-widget.php:103
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: classes/widgets/class-reviews-widget.php:164
+msgid "Number of reviews to show:"
+msgstr ""
+
+#: languages/strings.php:15
+msgid "Easy Digital Downloads - Reviews"
+msgstr ""
+
+#: languages/strings.php:18
+msgid "A fully featured reviewing system for Easy Digital Downloads."
+msgstr ""
+
+#: languages/strings.php:21
+msgid "Sunny Ratilal"
+msgstr ""
+
+#: templates/reviews.php:50
+#, php-format
+msgid "%s&larr;%s Previous"
+msgstr ""
+
+#: templates/reviews.php:51
+#, php-format
+msgid "Next %s&rarr;%s"
+msgstr ""
+
+#: templates/reviews.php:58
+#, php-format
+msgid "No reviews yet! Be the first to review this %s!"
+msgstr ""

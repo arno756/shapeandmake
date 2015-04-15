@@ -1,0 +1,247 @@
+# Copyright (C) 2014 Business Directory Plugin - Google Maps Module
+# This file is distributed under the same license as the Business Directory Plugin - Google Maps Module package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Directory Plugin - Google Maps Module 3.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/business-directory-"
+"googlemaps\n"
+"POT-Creation-Date: 2014-06-19 03:30:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: business-directory-googlemaps.php:125
+msgctxt "settings"
+msgid "Google Maps"
+msgstr ""
+
+#: business-directory-googlemaps.php:128
+msgctxt "settings"
+msgid "General Settings"
+msgstr ""
+
+#: business-directory-googlemaps.php:129
+msgctxt "settings"
+msgid "Turn on Google Maps integration?"
+msgstr ""
+
+#: business-directory-googlemaps.php:132
+msgctxt "settings"
+msgid "Google Maps API Key (optional)"
+msgstr ""
+
+#: business-directory-googlemaps.php:135
+msgctxt "settings"
+msgid ""
+"Enter your API key only if you are using Maps for Business or have Automated "
+"Billing enabled in your Google Console."
+msgstr ""
+
+#: business-directory-googlemaps.php:136
+msgctxt "settings"
+msgid "Show listings map in categories?"
+msgstr ""
+
+#: business-directory-googlemaps.php:137
+msgctxt "settings"
+msgid "Show listings map in \"View Listings\"?"
+msgstr ""
+
+#: business-directory-googlemaps.php:138
+msgctxt "settings"
+msgid "Show listings map in search results?"
+msgstr ""
+
+#: business-directory-googlemaps.php:141
+msgctxt "settings"
+msgid "Display Map position"
+msgstr ""
+
+#: business-directory-googlemaps.php:144
+msgctxt "settings"
+msgid "Applies only to category, \"View Listings\" and search results maps."
+msgstr ""
+
+#: business-directory-googlemaps.php:145
+msgctxt "settings"
+msgid "Above all listings"
+msgstr ""
+
+#: business-directory-googlemaps.php:146
+msgctxt "settings"
+msgid "Below all listings"
+msgstr ""
+
+#: business-directory-googlemaps.php:149
+msgctxt "settings"
+msgid "Appearance"
+msgstr ""
+
+#: business-directory-googlemaps.php:150
+msgctxt "settings"
+msgid "Map Size"
+msgstr ""
+
+#: business-directory-googlemaps.php:151
+msgctxt "settings"
+msgid "Small map (250x250px)"
+msgstr ""
+
+#: business-directory-googlemaps.php:152
+msgctxt "settings"
+msgid "Large map (400x600px)"
+msgstr ""
+
+#: business-directory-googlemaps.php:153
+msgctxt "settings"
+msgid "Custom size"
+msgstr ""
+
+#: business-directory-googlemaps.php:155
+msgctxt "settings"
+msgid "Custom map size width (px)"
+msgstr ""
+
+#: business-directory-googlemaps.php:155 business-directory-googlemaps.php:156
+msgctxt "settings"
+msgid "Applies only to the \"Custom size\" map size"
+msgstr ""
+
+#: business-directory-googlemaps.php:156
+msgctxt "settings"
+msgid "Custom map size height (px)"
+msgstr ""
+
+#: business-directory-googlemaps.php:158
+msgctxt "settings"
+msgid "Map Type"
+msgstr ""
+
+#: business-directory-googlemaps.php:160
+msgctxt "settings"
+msgid "Roadmap"
+msgstr ""
+
+#: business-directory-googlemaps.php:161
+msgctxt "settings"
+msgid "Satellite"
+msgstr ""
+
+#: business-directory-googlemaps.php:162
+msgctxt "settings"
+msgid "Hybrid"
+msgstr ""
+
+#: business-directory-googlemaps.php:163
+msgctxt "settings"
+msgid "Terrain"
+msgstr ""
+
+#: business-directory-googlemaps.php:165
+msgctxt "settings"
+msgid "Animate markers"
+msgstr ""
+
+#: business-directory-googlemaps.php:169
+msgctxt "settings"
+msgid "Field Options"
+msgstr ""
+
+#: business-directory-googlemaps.php:172
+msgctxt "settings"
+msgid "-- None --"
+msgstr ""
+
+#: business-directory-googlemaps.php:178
+msgctxt "settings"
+msgid "address"
+msgstr ""
+
+#: business-directory-googlemaps.php:179
+msgctxt "settings"
+msgid "city"
+msgstr ""
+
+#: business-directory-googlemaps.php:180
+msgctxt "settings"
+msgid "state"
+msgstr ""
+
+#: business-directory-googlemaps.php:181
+msgctxt "settings"
+msgid "ZIP code"
+msgstr ""
+
+#: business-directory-googlemaps.php:182
+msgctxt "settings"
+msgid "country"
+msgstr ""
+
+#: business-directory-googlemaps.php:184
+msgctxt "settings"
+msgid "Use this field as %s:"
+msgstr ""
+
+#: business-directory-googlemaps.php:457
+msgid ""
+"Business Directory - Google Maps Module has detected some issues while "
+"trying to contact the Google Maps API."
+msgstr ""
+
+#: business-directory-googlemaps.php:459
+msgid ""
+"This usually happens because Google imposes a daily limit on the number of "
+"requests a site can make. If you have been seeing this warning for more than "
+"24 hours it could be because:"
+msgstr ""
+
+#: business-directory-googlemaps.php:461
+msgid ""
+"- You have a huge number of listings that need to be geocoded. If this is "
+"the case you might need to wait several days before Business Directory has "
+"cached all the locations."
+msgstr ""
+
+#: business-directory-googlemaps.php:463
+msgid ""
+"- You are on a shared hosting and other sites are using up the request "
+"allowance for your IP."
+msgstr ""
+
+#: business-directory-googlemaps.php:465
+msgid ""
+"- The number of requests or Google map views in use by your site really "
+"exceeds the Google Maps API limits."
+msgstr ""
+
+#: business-directory-googlemaps.php:469
+msgid ""
+"You might need to apply for automated billing or a business account with "
+"Google. Please read <a>Google's documentation on usage limits</a>."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Business Directory Plugin - Google Maps Module"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.businessdirectoryplugin.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds support for Google Maps for display in a Business Directory listing.  "
+"Allows you to map any set of fields to the address for use by Google Maps.  "
+"REQUIRES Business Directory 3.0 or higher to run."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "D. Rodenbaugh"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://businessdirectoryplugin.com"
+msgstr ""

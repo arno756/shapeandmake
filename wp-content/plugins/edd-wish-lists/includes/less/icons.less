@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "edd-wish-lists";
+  src:url("fonts/edd-wish-lists.eot");
+  src:url("fonts/edd-wish-lists.eot?#iefix") format("embedded-opentype"),
+    url("fonts/edd-wish-lists.woff") format("woff"),
+    url("fonts/edd-wish-lists.ttf") format("truetype"),
+    url("fonts/edd-wish-lists.svg#edd-wish-lists") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+// fix edd's loading icon
+
+[class*="edd-icon-"]:before, 
+[class*=" edd-icon-"]:before {
+  cursor: pointer;
+}
+
+.glyphicon {
+  position: relative;
+  top: 2px;
+  display: inline-block;
+   font-family: 'edd-wish-lists';
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.no-text .glyphicon {
+  top: 0;
+}
+
+.glyphicon-star:before {
+  content: "\e001";
+}
+.glyphicon-star-2:before {
+  content: "\e007";
+}
+.glyphicon-star-1:before {
+  content: "\e007";
+}
+.glyphicon-heart:before {
+  content: "\e006";
+}
+.glyphicon-gift:before {
+  content: "\e000";
+}
+.glyphicon-remove:before {
+  content: "\e001";
+}
+.glyphicon-heart-empty:before {
+  content: "\e002";
+}
+.glyphicon-heart-2:before {
+  content: "\e003";
+}
+.glyphicon-add:before {
+  content: "\e004";
+}
+.glyphicon-star:before {
+  content: "\e005";
+}
+.glyphicon-tick:before {
+  content: "\e007";
+}
+.glyphicon-bookmark:before {
+  content: "\e008";
+}

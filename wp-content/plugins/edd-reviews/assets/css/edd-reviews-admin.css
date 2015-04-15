@@ -1,0 +1,13 @@
+/**
+ * EDD Reviews Back-end CSS
+ *
+ * Copyright (c) 2014, Sunny Ratilal.
+ */
+#wpadminbar .edd-review-count-wrap { text-align: center; color: #fff; margin-top: .2em; padding: 0; height: 1.2em; display: block; cursor: pointer; background-repeat: no-repeat; float: right; background: #bdbdbd; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; margin-left: 8px; padding-bottom: 5px; }
+#wpadminbar .edd-review-count { font-size: 10px; font-weight: bold; min-width: .7em; padding: 0 5px; line-height: 2.2em; display: block; word-wrap: break-word; color: #fff; }
+#edd-reviews-list .avatar { float: left; margin: 0 10px 5px 0; }
+#edd-reviews-list .edd-dashboard-review-wrap { overflow: hidden; word-wrap: break-word; }
+#edd-reviews-list .edd-dashboard-review-wrap p { color: #777; margin: 0; padding: 0; }
+#edd-reviews-list .edd-dashboard-review-wrap blockquote { margin-left: 0; }
+.edd_star_rating { background: url('../images/stars.png') repeat-x top left; height: 20px; width: 92px; margin: 0; padding: 0; }
+#edd_reviews_review_meta_box { margin-top: 20px; }

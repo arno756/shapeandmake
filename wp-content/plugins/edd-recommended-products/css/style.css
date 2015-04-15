@@ -1,0 +1,5 @@
+#edd-rp-items-wrapper { text-align: center; overflow: auto; }
+.edd-rp-item { text-align: center; float: left; min-height: 256px; width: 200px; }
+.edd-rp-nothumb { min-height: 150px; }
+.edd-rp-single .edd-cart-added-alert { display: none !important; }
+.edd-rp-checkout .edd-cart-ajax { display: none !important; }

@@ -1,0 +1,54 @@
+.edd-slg-login-error,
+.edd-slg-login-loader{
+	display:none;
+}
+.edd-slg-login-error{
+	clear: both;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #F1ACAC;
+	border: 1px solid #EE4B4B;
+	margin-bottom: 1.650em;
+	box-shadow: 0px 2px 2px 2px #ccc;
+	padding: 8px 5px 8px 8px;
+}
+.edd-slg-login-error span{
+	display: block;
+}
+.edd-slg-social-wrap img{
+	outline: 0;
+}
+.edd-slg-social-container a {
+	text-decoration: none !important;
+}
+.edd-slg-login-wrapper {
+	float: left;
+	margin-right: 5px;
+}
+.edd-slg-login-wrapper a {
+	outline: 0;
+}
+.edd-slg-clear {
+	clear: both;
+}
+.edd-slg-social-container {
+	border: 1px solid #eee;
+	padding: 1.387em;
+	margin: 0 0 21px;
+}
+.edd-slg-social-container legend {
+	display: block;
+	font-size: 120%;
+	line-height: 1;
+	font-weight: 700;
+	width: 100%;
+	margin: 0 0 21px;
+	padding: 0;
+}
+.edd-slg-widget-content .edd-slg-login-wrapper {
+	margin-bottom: 5px;
+}
+.edd-slg-social-container.edd-slg-widget-content{
+	border:none !important;
+}
